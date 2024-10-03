@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "966559258932",
+    "project_id": "authfirebase-ba26f",
+    "storage_bucket": "authfirebase-ba26f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966559258932:android:9a36b17407cc5045642d61",
+        "android_client_info": {
+          "package_name": "com.example.pokeapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvlPwoCSrwB-pR6p12Y-U9RUpuwwwDXS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966559258932:android:687b53ea1bb07af1642d61",
+        "android_client_info": {
+          "package_name": "com.example.pokemon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvlPwoCSrwB-pR6p12Y-U9RUpuwwwDXS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
